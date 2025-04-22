@@ -39,7 +39,7 @@
       "commitMessage": "release: v${version}",
       "tagName": "v${version}"
     },
-    "npmj": {
+    "npm": {
       "publish": false
     },
     "github": {
